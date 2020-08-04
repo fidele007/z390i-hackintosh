@@ -210,14 +210,13 @@
 		<dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
-				<key>AAPL,ig-platform-id</key>
-				<data>AACbPg==</data>
-				<key>framebuffer-patch-enable</key>
-				<data>AQAAAA==</data>
-				<key>framebuffer-stolenmem</key>
-				<data>AAAwAQ==</data>
-				<key>igfxfw</key>
-				<data>AgAAAA==</data>
+				<key>name</key>
+				<data>I2Rpc3BsYXk=</data>
+				<key>IOName</key>
+				<string>#display
+</string>
+				<key>class-code</key>
+				<data>/////w==</data>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x1,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)/Pci(0x0,0x0)</key>
 			<dict>
